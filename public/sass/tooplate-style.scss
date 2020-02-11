@@ -18,7 +18,7 @@ $h3-font-color: #484848;
 $body-font-color: #5b5b5b;
 $text-white: #ffffff;
 $dark-mode-color: #0c0c0d;
-$main-color: #008FC3;
+$main-color: #4b7bff;
 $border-color: #f2f2f1;
 $button-color: #474559;
 
@@ -95,6 +95,7 @@ h2 {
 	color: $h2-font-color;
 	font-size: $h2-font-size;
 	font-weight: $font-weight-bold;
+	letter-spacing: 0px;
 }
 
 h3 {

@@ -40,7 +40,7 @@ a {
   transition: all 0.4s ease;
 }
 a:hover {
-  color: #008FC3 !important;
+  color: #4b7bff !important;
 }
 
 .navbar-brand .uil {
@@ -92,14 +92,14 @@ b, strong {
   transition: all 0.4s ease;
 }
 .custom-btn:hover {
-  color: #008FC3;
+  color: #4b7bff;
 }
 .custom-btn.custom-btn-bg {
-  background: #00252D;
+  background: #00081f;
   color: #ffffff;
 }
 .custom-btn.custom-btn-bg:hover {
-  background: #008FC3;
+  background: #4b7bff;
   color: #ffffff !important;
 }
 .animated {
@@ -110,16 +110,16 @@ b, strong {
   display: inline-block;
   vertical-align: top;
   margin-top: 5px;
-  min-width: 260px;
+  min-width: 225px;
   position: relative;
 }
 
 .animated-item {
-  color: #008FC3;
+  color: #4b7bff;
 }
 
 .animated-item {
-  font-size: 38px;
+  font-size: 42px;
   line-height: inherit;
   display: block;
   opacity: 0;
@@ -213,7 +213,7 @@ b, strong {
 
 .navbar-light .navbar-nav .nav-link:focus,
 .navbar-light .navbar-nav .nav-link:hover {
-  color: #008FC3;
+  color: #4b7bff;
   font-weight: bold;
 }
 .navbar-light .navbar-nav .nav-link:focus span,
@@ -295,7 +295,7 @@ b, strong {
   color: rgba(255, 255, 255, 0.8);
 }
 .dark-mode .navbar-light .navbar-nav .nav-link:hover {
-  color: #008FC3;
+  color: #4b7bff;
 }
 .dark-mode .navbar[class*="headroom--not-top"] {
   background: #0c0c0d;
@@ -326,7 +326,7 @@ b, strong {
 }
 .timeline-wrapper:before {
   content: "";
-  background: #474559;
+  background: #434956;
   width: 3px;
   height: 100%;
   position: absolute;
@@ -334,7 +334,7 @@ b, strong {
 }
 
 .timeline-yr {
-  background: #474559;
+  background: #434956;
   border-radius: 100%;
   position: absolute;
   width: 75px;
@@ -357,7 +357,7 @@ b, strong {
   margin-left: 6em;
 }
 .timeline-info small {
-  color: #474559;
+  color: #434956;
   font-size: 16px;
   font-weight: bold;
   display: inline-block;
@@ -397,7 +397,7 @@ b, strong {
   font-size: inherit;
 }
 .owl-theme .owl-nav [class*=owl-]:hover {
-  color: #008FC3;
+  color: #4b7bff;
 }
 .owl-theme .owl-dots .owl-dot {
   outline: none;
@@ -429,10 +429,10 @@ b, strong {
   height: 48px;
 }
 .contact-form .form-control:hover, .contact-form .form-control:focus {
-  border-color: #008FC3;
+  border-color: #4b7bff;
 }
 .contact-form .submit-btn {
-  background: #008FC3;
+  background: #4b7bff;
   border-radius: 50px;
   color: #ffffff;
   font-weight: bold;
@@ -441,11 +441,11 @@ b, strong {
   transition: all 0.4s ease;
 }
 .contact-form .submit-btn:hover {
-  background: #474559;
+  background: #434956;
 }
 
 .contact-info {
-  background: #474559;
+  background: #434956;
   border-radius: 0 0 3px 3px;
   position: relative;
   bottom: 8px;
@@ -461,7 +461,7 @@ b, strong {
   margin: 5px 0;
 }
 .social-links .uil:hover {
-  color: #008FC3;
+  color: #4b7bff;
 }
 
 @media (min-width: 1270px) {
