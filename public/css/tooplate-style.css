@@ -40,7 +40,7 @@ a {
   transition: all 0.4s ease;
 }
 a:hover {
-  color: #008FC3 !important;
+  color: #4b7bff !important;
 }
 
 .navbar-brand .uil {
@@ -92,14 +92,14 @@ b, strong {
   transition: all 0.4s ease;
 }
 .custom-btn:hover {
-  color: #008FC3;
+  color: #4b7bff;
 }
 .custom-btn.custom-btn-bg {
-  background: #00252D;
+  background: #00081f;
   color: #ffffff;
 }
 .custom-btn.custom-btn-bg:hover {
-  background: #008FC3;
+  background: #4b7bff;
   color: #ffffff !important;
 }
 .animated {
@@ -110,7 +110,7 @@ b, strong {
   display: inline-block;
   vertical-align: top;
   margin-top: 5px;
-  min-width: 230px;
+  min-width: 225px;
   position: relative;
 }
 
@@ -326,7 +326,7 @@ b, strong {
 }
 .timeline-wrapper:before {
   content: "";
-  background: #474559;
+  background: #434956;
   width: 3px;
   height: 100%;
   position: absolute;
@@ -334,7 +334,7 @@ b, strong {
 }
 
 .timeline-yr {
-  background: #474559;
+  background: #434956;
   border-radius: 100%;
   position: absolute;
   width: 75px;
@@ -357,7 +357,7 @@ b, strong {
   margin-left: 6em;
 }
 .timeline-info small {
-  color: #474559;
+  color: #434956;
   font-size: 16px;
   font-weight: bold;
   display: inline-block;
@@ -441,11 +441,11 @@ b, strong {
   transition: all 0.4s ease;
 }
 .contact-form .submit-btn:hover {
-  background: #474559;
+  background: #434956;
 }
 
 .contact-info {
-  background: #474559;
+  background: #434956;
   border-radius: 0 0 3px 3px;
   position: relative;
   bottom: 8px;
