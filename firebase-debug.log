@@ -1,0 +1,54 @@
+[debug] [2020-02-06T10:11:01.770Z] ----------------------------------------------------------------------
+[debug] [2020-02-06T10:11:01.772Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\user\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init functions
+[debug] [2020-02-06T10:11:01.773Z] CLI Version:   7.12.1
+[debug] [2020-02-06T10:11:01.773Z] Platform:      win32
+[debug] [2020-02-06T10:11:01.773Z] Node Version:  v13.7.0
+[debug] [2020-02-06T10:11:01.775Z] Time:          Thu Feb 06 2020 19:11:01 GMT+0900 (대한민국 표준시)
+[debug] [2020-02-06T10:11:01.776Z] ----------------------------------------------------------------------
+[debug] [2020-02-06T10:11:01.776Z] 
+[debug] [2020-02-06T10:11:01.785Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2020-02-06T10:11:01.786Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\user\Desktop\pavilion-web
+
+Before we get started, keep in mind:
+
+  * You are initializing in an existing Firebase project directory
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[info] i  .firebaserc already has a default project, using design-your-voix.
+[debug] [2020-02-06T10:11:03.660Z] >>> HTTP REQUEST GET https://firebase.googleapis.com/v1beta1/projects/design-your-voix  
+ 
+[debug] [2020-02-06T10:11:04.561Z] <<< HTTP RESPONSE 200
+[info] 
+=== Functions Setup
+[info] 
+[info] A functions directory will be created in your project with a Node.js
+[info] package pre-configured. Functions can be deployed with firebase deploy.
+[info] 
+[debug] [2020-02-06T10:11:04.564Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2020-02-06T10:11:04.565Z] > authorizing via signed-in user
+[debug] [2020-02-06T10:11:04.565Z] [iam] checking project design-your-voix for permissions ["firebase.projects.get"]
+[debug] [2020-02-06T10:11:04.566Z] >>> HTTP REQUEST POST https://cloudresourcemanager.googleapis.com/v1/projects/design-your-voix:testIamPermissions  
+
+[debug] [2020-02-06T10:11:05.656Z] <<< HTTP RESPONSE 200
+[debug] [2020-02-06T10:11:05.657Z] >>> HTTP REQUEST POST https://serviceusage.googleapis.com/v1/projects/design-your-voix/services/cloudfunctions.googleapis.com:enable  
+ 
+[debug] [2020-02-06T10:11:05.657Z] >>> HTTP REQUEST POST https://serviceusage.googleapis.com/v1/projects/design-your-voix/services/runtimeconfig.googleapis.com:enable  
+ 
+[debug] [2020-02-06T10:11:06.918Z] <<< HTTP RESPONSE 200
+[debug] [2020-02-06T10:11:06.968Z] <<< HTTP RESPONSE 200
