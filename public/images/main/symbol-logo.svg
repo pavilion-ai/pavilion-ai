@@ -11,12 +11,10 @@
 	<g>
 		<rect x="6.06" y="5.92" class="st0" width="35.65" height="35.65"/>
 		<g>
-			<rect x="11.33" y="11.11" width="8.39" height="8.39"/>
-			<rect x="11.33" y="19.5" width="8.39" height="8.39"/>
+			<rect x="11.33" y="11.11" width="8.39" height="16.79"/>
 			<rect x="11.33" y="27.9" class="st1" width="8.39" height="8.39"/>
 			<rect x="19.73" y="27.9" width="8.39" height="8.39"/>
-			<rect x="28.12" y="19.5" width="8.39" height="8.39"/>
-			<rect x="28.12" y="11.11" width="8.39" height="8.39"/>
+			<rect x="28.12" y="11.11" width="8.39" height="16.79"/>
 		</g>
 	</g>
 	<g>

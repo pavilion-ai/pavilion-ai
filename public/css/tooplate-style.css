@@ -96,7 +96,7 @@ b, strong {
 }
 
 .custom-btn {
-  background: #eee;
+  background: rgb(245, 245, 245);
   color: #5b5b5b;
   font-weight: 600;
   border-radius: 50px;
